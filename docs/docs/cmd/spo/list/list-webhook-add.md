@@ -31,7 +31,7 @@ m365 spo list webhook add [options]
 `-c, --clientState [clientState]`
 : A client state information that will be passed through notifications.
 
---8<-- "docs/cmd/_global.md"
+--8<-- "docs/cmd/\_global.md"
 
 ## Examples
 
