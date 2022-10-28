@@ -19,7 +19,7 @@ m365 onedrive report activityuserdetail [options]
 `-f, --outputFile [outputFile]`
 : Path to the file where the report should be stored in
 
---8<-- "docs/cmd/\_global.md"
+--8<-- "docs/cmd/_global.md"
 
 ## Examples
 

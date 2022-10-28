@@ -25,7 +25,7 @@ m365 onenote notebook list [options]
 `-u, --webUrl [webUrl]`
 : URL of the SharePoint site.
 
---8<-- "docs/cmd/\_global.md"
+--8<-- "docs/cmd/_global.md"
 
 ## Examples
 

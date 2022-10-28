@@ -16,7 +16,7 @@ m365 onedrive report usageaccountcounts [options]
 `-f, --outputFile [outputFile]`
 : Path to the file where the report should be stored in
 
---8<-- "docs/cmd/\_global.md"
+--8<-- "docs/cmd/_global.md"
 
 ## Remarks
 
